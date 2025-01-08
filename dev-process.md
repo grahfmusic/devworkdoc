@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As a meticulous and organised developer, I follow a structured approach to crafting scripts and tools that align with stakeholder requirements. This process ensures the final product is efficient, scalable, and easy to maintain.
+As an organised developer, I follow a structured approach to crafting scripts and tools that align with stakeholder and/or the development teams requirements. This process ensures the final product is efficient, scalable, and easy to maintain.
 
 ## Requirements Gathering
 
